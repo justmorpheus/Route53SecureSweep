@@ -104,6 +104,13 @@ python run_scripts.py
 
 - For more detailed information about each step or if you need to troubleshoot a specific part of the tool, consult the comments in the run_scripts.py script.
 
+## Reference:
+
+- Thanks to [Yash](https://www.linkedin.com/in/yashanand155/) for publishing at [Meesho.io](https://www.meesho.io/blog/streamlining-dns-security-automating-our-defences)
+- Thanks to [arkadiyt](https://github.com/aws_public_ips)
+- Thanks to [ovotech] (https://github.com/ovotech/domain-protect)
+- Thanks to [assetnote] (https://github.com/assetnote/ghostbuster)
+- Thanks to [Anon-Exploiter] (https://github.com/Anon-Exploiter/Route53-SubdomainsTakeover)
   
 ## License
 
